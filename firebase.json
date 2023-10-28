@@ -1,0 +1,12 @@
+{
+    "hosting": {
+        "site": "white-label-cca4f",
+
+        "public": "build/web",
+        "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+        ]
+    }
+}
